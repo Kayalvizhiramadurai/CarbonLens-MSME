@@ -1,0 +1,13 @@
+file,kind,quantity,month,amount_rs
+samples/bill_01_electricity_en.png,electricity,11840,2026-04,98304
+samples/bill_02_electricity_en.png,electricity,14250,2026-06,117825
+samples/bill_03_electricity_hi.png,electricity,12975,2026-07,107497
+samples/bill_04_electricity_hi.png,electricity,15620,2026-09,128922
+samples/bill_05_electricity_en.png,electricity,9480,2026-08,79188
+samples/bill_06_diesel_en.png,diesel,420,2026-05,38388.0
+samples/bill_07_diesel_hi.png,diesel,355,2026-08,32447.0
+samples/bill_08_petrol_en.png,petrol,90,2026-06,9351.0
+samples/bill_09_lpg_en.png,lpg,190,2026-07,17800
+samples/bill_10_steel_en.png,steel,2400,2026-05,175584
+samples/bill_11_cotton_en.png,cotton,1800,2026-06,520380
+samples/bill_12_packaging_en.png,packaging,650,2026-09,36816

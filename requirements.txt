@@ -1,0 +1,7 @@
+streamlit
+pandas
+scikit-learn
+reportlab
+pillow
+google-genai
+anthropic
